@@ -1,0 +1,36 @@
+item {
+  id: 1
+  name: 'person'
+}
+
+item {
+  id: 2
+  name: 'stop'
+}
+item {
+  id: 3
+  name: 'light-green'
+}
+
+item {
+  id: 4
+  name: 'tree'
+}
+
+item {
+  id: 5
+  name: 'ligth-red'
+}
+
+item {
+  id: 6
+  name: 'signal-left'
+}
+
+item {
+  id: 7
+  name: 'signal-right'
+}
+
+
+
